@@ -10,7 +10,7 @@
 
 ## 📖 项目简介
 
-本项目是对[lucknitelol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)的中文翻译版本，旨在为中文开发者和AI爱好者提供各种流行AI编程工具的系统提示词和模型设计文档。通过这些资料，您可以深入了解各类AI助手的工作原理，以及如何更有效地与它们交互。
+本项目是对[lucknitelol/system-prompts-and-models-of-ai-tools](https://github.com/lucknitelol/system-prompts-and-models-of-ai-tools)的中文翻译版本，旨在为中文开发者和AI爱好者提供各种流行AI编程工具的系统提示词和模型设计文档。通过这些资料，您可以深入了解各类AI助手的工作原理，以及如何更有效地与它们交互。
 
 > **声明：** 本项目仅供学习研究使用。项目中的所有提示词和模型文档仅用于帮助开发者理解AI工具的工作原理。详细的免责声明请查看[DISCLAIMER.md](./DISCLAIMER.md)文件。
 
