@@ -1,4 +1,4 @@
-# AI工具系统提示词和模型中文翻译项目
+# AI中文编程提示词项目
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 ## 📖 项目简介
 
-本项目是对[lucknitelol/system-prompts-and-models-of-ai-tools](https://github.com/lucknitelol/system-prompts-and-models-of-ai-tools)的中文翻译版本，旨在为中文开发者和AI爱好者提供各种流行AI编程工具的系统提示词和模型设计文档。通过这些资料，您可以深入了解各类AI助手的工作原理，以及如何更有效地与它们交互。
+本项目是对[lucknitelol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)的中文翻译版本，旨在为中文开发者和AI爱好者提供各种流行AI编程工具的系统提示词和模型设计文档。通过这些资料，您可以深入了解各类AI助手的工作原理，以及如何更有效地与它们交互。
 
 > **声明：** 本项目仅供学习研究使用。项目中的所有提示词和模型文档仅用于帮助开发者理解AI工具的工作原理。详细的免责声明请查看[DISCLAIMER.md](./DISCLAIMER.md)文件。
 
@@ -63,11 +63,11 @@
 - **提示词优化建议** - 针对中文用户的提示词使用技巧和优化方法
 - **实践案例分享** - 收集在实际开发过程中使用这些提示词的成功案例
 
-我们致力于建立一个完整的中文AI工具资源库，帮助更多开发者充分利用AI辅助编程的潜力。
+我致力于建立一个完整的中文AI工具资源库，帮助更多开发者充分利用AI辅助编程的潜力。
 
 ## 🔗 相关链接
 
-- [原始英文项目](https://github.com/lucknitelol/system-prompts-and-models-of-ai-tools)
+- [原始英文项目](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Cursor官网](https://cursor.sh/)
 - [Devin AI官网](https://www.cognition.ai/)
 - [VSCode官网](https://code.visualstudio.com/)
