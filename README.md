@@ -75,7 +75,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <sub>如有任何问题或建议，欢迎提交Issue</sub>
 </div>
 
